@@ -30,7 +30,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFG** e **Desenvolv
 
 <div>
   <a href="https://github.com/juliakarolaynne">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliakarolaynne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliakarolaynne&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliakarolaynne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakarolaynne&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
 </div>
