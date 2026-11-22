@@ -26,11 +26,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFG** e **Desenvolv
 - ⚔️ **[Seleção de Personagens X-Men](https://juliakarolaynne.github.io/x-men)** — Galeria interativa com troca dinâmica de conteúdo e manipulação do DOM em tempo real.
 - 🌿 **[Landing Page The Last of Us](https://juliakarolaynne.github.io/projeto-the-last-of-us)** — Interface imersiva com navegação por carrossel de planos de fundo em JavaScript vanilla.
 
-### 📊 GitHub Stats
+### 📊 Atividade no GitHub
 
-<div>
-  <a href="https://github.com/juliakarolaynne">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliakarolaynne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakarolaynne&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliakarolaynne&bg_color=000000&color=E94D5F&title_color=E94D5F&line=E94D5F&point=30A3DC&area=true&area_color=E94D5F&border_color=30A3DC" width="100%" alt="Gráfico de Atividade no GitHub"/>
 </div>
